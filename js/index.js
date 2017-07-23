@@ -74,6 +74,7 @@ $(function(){
 	change($('.leftBox4>.comTitle>.comTitle_tabs>li'),$('.leftBox4>.tabs>.tabs_item'));//财经
 	change($('.leftBox5>.comTitle>.comTitle_tabs>li'),$('.leftBox5>.tabs>.tabs_item'));//小说
 	change($('.comWidth>.comTitle>.comTitle_tabs>li'),$('.comWidth>.tabs>.tabs_item'));//猜你喜欢
+	change($('.day>a'),$('.Day>.tabs_item'));//今日
 	change($('.ComTitle>.comTitle_tabs>li'),$('.Tabs>.tabs_item'));//科技
 	change($('.ComTitle1>.comTitle_tabs>li'),$('.Tabs1>.tabs_item'));//手机
 	change2($('.ContNav1>.contNav>.contNav_item'),$('.ContNav1>.tabs>.tabs_item'));//游戏
