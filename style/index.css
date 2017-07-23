@@ -1,0 +1,20 @@
+.variety{
+	display: none;
+}
+/*.>div:nth-child(3){
+	display: none;
+}
+.leftBox>div:nth-child(4){
+	display: none;
+}*/
+.ContNav1>.contNav>.active{
+	    text-align: center;
+	    border: 1px solid #dbdee1;
+	    float: left;
+	    display: inline;
+	    height: 35px;
+	    line-height: 35px;
+	    width: 20%;
+	    border-bottom: none;
+	    background: #fff;
+}
